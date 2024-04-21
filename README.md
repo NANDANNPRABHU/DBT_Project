@@ -1,6 +1,6 @@
 # DBT Mini Project
  
-### Team Members : Nandish N S, Ritvik ...
+### Team Members : Nandish N S, Nandan N Prabhu, Manoj Kumar R, Mallikarjun, Naithik ...
 
 
 ## Overview
